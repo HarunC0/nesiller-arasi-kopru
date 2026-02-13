@@ -1,0 +1,18 @@
+{
+    "name": "Nesiller Arası Köprü",
+    "short_name": "NAK",
+    "description": "Nesiller arası dayanışma ve iletişim platformu",
+    "start_url": "/login",
+    "display": "standalone",
+    "background_color": "#f0e6d3",
+    "theme_color": "#b5651d",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
